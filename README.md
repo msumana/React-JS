@@ -1,3 +1,4 @@
+Features to be implemented
 1. Add Items to UI
 2. Delete Items from list
 3. Strrike items from List for completed tasks
